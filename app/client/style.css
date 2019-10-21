@@ -1,0 +1,27 @@
+.ui.borderless.topmenu.menu{
+  background-color: #f7f7f7;
+  box-shadow: none;
+  border:none;
+}
+img{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.ui.borderless.midmenu.menu{
+  box-shadow: none;
+  border:none;
+
+}
+.footer-background{
+  background-color:white;
+  color:black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.ui.vertical.menu{
+  box-shadow: none;
+  border: none;
+}
+
